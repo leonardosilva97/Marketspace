@@ -352,7 +352,7 @@ export function CreateAd() {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ paddingBottom: 112 }}
       >
-        <Back title={idParams ? "Editar anúncio" : "Criar anúncio"} onPress={goBack} />
+        <Back title={idParams !== "clear"  ? "Editar anúncio" : "Criar anúncio"} onPress={goBack} />
 
         <Box>
           <Text bold fontSize={"lg"} color={"gray.600"}>

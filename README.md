@@ -71,7 +71,6 @@ Para a construção desse projeto, utilizei um conjunto poderoso de tecnologias,
 
 ![CriarAnuncio](https://github.com/leonardosilva97/Marketspace/blob/main/src/assets/imgs_app/createAd.PNG)
 
-![Map](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Map.PNG)
 
 
 ---

@@ -65,6 +65,8 @@ Para a construção desse projeto, utilizei um conjunto poderoso de tecnologias,
 
 ![Home](https://github.com/leonardosilva97/Marketspace/blob/main/src/assets/imgs_app/home.PNG)
 
+![AnunciosPublicados](https://github.com/leonardosilva97/Marketspace/blob/main/src/assets/imgs_app/Myad.PNG)
+
 ![MeuAnuncio](https://github.com/leonardosilva97/Marketspace/blob/main/src/assets/imgs_app/Ad.PNG)
 
 ![Anuncio](https://github.com/leonardosilva97/Marketspace/blob/main/src/assets/imgs_app/AdView.PNG)

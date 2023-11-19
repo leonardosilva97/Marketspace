@@ -1,6 +1,6 @@
-# Ecommerce Bike
+# Marketspace
 
-Mini ecommerce de bike feito em react native 
+App de compra e vendas de produtos estilo OLX feito em react native 
 
 ## 📋 Pré-requisitos
 

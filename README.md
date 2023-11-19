@@ -40,7 +40,7 @@ Obs: para usar seu celular como ferramenta, basta ir na loja de apps do seu smar
 ## 🛠️ Construído com
 
 
-🔐 Login e cadastro de usuários para uma interação personalizada
+🔐 Login e cadastro de usuários para uma interação personalizada/n
 📦 Gerenciamento de produtos para uma experiência de venda e compra sem complicações
 🔍 Listagem de produtos com opções de busca e filtros para uma navegação eficiente
 🖼 Envio e manipulação de múltiplas imagens para uma exibição atraente dos produtos
